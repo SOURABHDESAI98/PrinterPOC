@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hezBbzTsaFhYJlHYRabsU6Z3DI5+lJXen7xocr/wtbM=",
+  "Source": "printerAppPOC.Server",
+  "BasePath": "_content/printerAppPOC.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\a00578339\\source\\repos\\printerAppPOC\\printerapppoc.client\\printerapppoc.client.esproj",
+      "Version": 2,
+      "Source": "printerapppoc.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

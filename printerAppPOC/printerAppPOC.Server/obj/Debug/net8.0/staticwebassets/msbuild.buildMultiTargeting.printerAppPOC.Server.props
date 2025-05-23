@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\printerAppPOC.Server.props" />
+</Project>
